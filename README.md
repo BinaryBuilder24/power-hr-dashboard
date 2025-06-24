@@ -23,7 +23,7 @@ It focuses on visualizing key employee metrics such as attrition, satisfaction r
 ## Screenshot
 ![Dashboard Screenshot](./Screenshot%204.png)
 
-> *Make sure the screenshot file (`Screenshot 4.png`) is placed in the same folder as your README.md.*
+
 
 ## Live Preview
 [![View in Power BI](https://img.shields.io/badge/View_in-Power_BI-blue?logo=power-bi)](https://powerbi.microsoft.com/en-us/desktop/)
